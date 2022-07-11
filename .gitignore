@@ -4,4 +4,4 @@
 .ipr
 
 # Ignore the build directory
-out/.*
+/out/
