@@ -5,3 +5,4 @@
 
 # Ignore the build directory
 /out/
+/target/
